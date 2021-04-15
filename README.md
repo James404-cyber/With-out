@@ -35,6 +35,6 @@ $ python2 Emailcloning.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/James404-cyber/With-out.git ; cd With-out ; python2 Emailcloning.py
 ```
-TOOL USER : (Contact For Me)</br>
-TOOL PASS : (Contact For Me</br>
+TOOL USER : (JAMES404)</br>
+TOOL PASS : (BALCK404)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
